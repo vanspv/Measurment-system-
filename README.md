@@ -23,7 +23,7 @@ Mērijumu Sistēma(MS) ir attālumu mērītājs, kas izmanto Time of Flight(ToF)
 
 ## Kāpēc risinājums ir nepieciešams?
 
-Latvijā ir 140~ tūkstošu cilvēku, kuriem ir kāda no invaliditātes pakāpēm, un 12+ tūkstošiem no tiem daļas ir invaliditāte, kura satistīta ar redzes traucējumiem. (https://www.lnbiedriba.lv/lv/par-biedribu/statistika-un-petijumi/)
+Latvijā ir ~140 tūkstošu cilvēku, kuriem ir kāda no invaliditātes pakāpēm, un 12+ tūkstošiem no tiem ir invaliditāte, kura satistīta ar redzes traucējumiem. (https://www.lnbiedriba.lv/lv/par-biedribu/statistika-un-petijumi/)
 
 
 
