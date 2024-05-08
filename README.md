@@ -59,11 +59,12 @@ Neredzīgie var izmantot šo ierīci, lai noteiktu attālumu no dažādiem objek
 
 - Sliekšņa regulēšana - 2 pogas, kas regulē MS attāluma slieksni, viena mazina attāluma slieksni, otra palielina attāluma slieksni.
 
-- -Leņķa regulēšana - Kustinot ToF sensoru platformu, var regulēt leņķi, kurā ToF mēra attālumu.-
 
 ## Uzlabojumi
 Drošāku 
+
 Pievienot skaņu signālu dažādu komponentu izmantošanai.
+
 Nodrošināt veidu kā piestiprināt sistēmu uz cilvēka.
 
 
