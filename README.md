@@ -76,4 +76,3 @@ Alternatīvas šādam asistences risinājumam jau patāvkuri, kri satur ToF sens
 ## Autori
 - Anrijs Dambis
 - Vanesa Vidiņa
-
