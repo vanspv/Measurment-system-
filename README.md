@@ -37,7 +37,7 @@ Neredzīgie var izmantot šo ierīci, lai noteiktu attālumu no dažādiem objek
 - 2x ToF sensori
 - Pīkstulis
 - Potenciometrs
-- 2x pogas
+- 2x Pogas
 - OLED displejs.
 
 ### Detaļu apraksts:
