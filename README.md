@@ -8,6 +8,7 @@
 - [Lietošanas instrukcija](#lietošanas-instrukcija)
 - [Uzlabojumi](#uzlabojumi)
 - [Alternatīvas](#alternatīvas)
+- [Contributors](#contributors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -48,3 +49,6 @@ End me
 ## Alternatīvas
 
 Non
+
+## Contributors
+dumb and dumb
