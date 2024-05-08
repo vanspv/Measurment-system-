@@ -1,6 +1,6 @@
 <h1 align="center"> Mērijumu Sistēma </h1> <br>
 
-## Table of Contents
+## satura rādītājs
 
 - [Kas tas ir?](#kas-tas-ir)
 - [Kāpēc tas ir?](#kāpēc-tas-ir)
