@@ -1,4 +1,4 @@
-<h1 align="center"> Mērijumu Sistēma </h1> <br>
+<h1 align="center"> Mērījumu Sistēma </h1> <br>
 
 ## Saturs
 
@@ -14,7 +14,7 @@
 
 ## Kas tas ir?
 
-MS ir attālumu mērītājs, kas izmanto tof komponentus lai mērītu attālumu starp to un objektu. Tof komponenti sūta mērijuma datus uz mikrokontrolieri. Mikrokontrolieris vel ņem vai satur informāciju par citām lietām kā pīkstuļa slieksni un pīkstuļa skaļumu, slieksnis vadāms ar pogām, un skaļums vadāms ar potenciometru. Šī informācija tālāk tiek aizsūtīta uz Oled displeju un pīkstuli. 
+Mērijumu Sistēma(MS) ir attālumu mērītājs, kas izmanto tof komponentus lai mērītu attālumu starp to un objektu. Tof komponenti sūta mērijuma datus uz mikrokontrolieri. Mikrokontrolieris vel ņem vai satur informāciju par citām lietām kā pīkstuļa slieksni un pīkstuļa skaļumu, slieksnis vadāms ar pogām, un skaļums vadāms ar potenciometru. Šī informācija tālāk tiek aizsūtīta uz Oled displeju un pīkstuli. 
 
 ![image](https://github.com/SkylerAcer/Measurment-system-/assets/96178550/e88cd2ea-e769-4920-8dbe-cf7c679a871b)
 
