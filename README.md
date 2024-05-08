@@ -8,6 +8,7 @@
 - [Lietošanas instrukcija](#lietošanas-instrukcija)
 - [Uzlabojumi](#uzlabojumi)
 - [Alternatīvas](#alternatīvas)
+- [Autori](#Autori)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -40,11 +41,11 @@ Mikrokontrolieris Raspberry Pi Pico W, 2x ToF sensori, pīkstulis, potenciometrs
 
 
 ## Lietošanas instrukcija
-Skaņa - Potenciometru regulējot maina brīdinājuma skaļumu sistēmai
+Skaņas regulēšana - Potenciometru regulējot maina brīdinājuma skaļumu sistēmai
 
-Slieksnis - 2 pogas kas regulē MS attāluma slieksni, viena mazina attāluma slieksni, otra palielina attāluma slieksni.
+Sliekšņa regulēšana - 2 pogas kas regulē MS attāluma slieksni, viena mazina attāluma slieksni, otra palielina attāluma slieksni.
 
-Leņķis?
+Leņķa regulēšana - 
 
 ## Uzlabojumi
 End me
@@ -52,4 +53,7 @@ End me
 ## Alternatīvas
 
 Non
+## Autori
+- Anrijs Dambis
+- Vanesa Vidiņa
 
