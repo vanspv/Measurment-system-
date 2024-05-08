@@ -20,7 +20,7 @@ Mērijumu Sistēma(MS) ir attālumu mērītājs, kas izmanto Time of Flight(ToF)
 
 
 
-## Kāpēc tas ir?
+## Kāpēc risinājums ir nepieciešams?
 
 Satatiskika + Problēmas apraksts (nezinu vai statistiku vajadzēja prezentācijā vai arī šeit bet man liekas ka šeit )
 
