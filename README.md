@@ -14,11 +14,10 @@
 
 ## Kas tas ir?
 
-Sistēma kas mēra attālumu strap tā un objekta vai cilvēka. Šo attālumu izmanto lai noteiktu vai kaut kas ir pārāk tuvu, un brīdina lietotāju par šo, ar regulējamu skaļumu.
+MS ir attālumu mērītājs, kas izmanto tof komponentus lai mērītu attālumu starp to un objektu. Tof komponenti sūta mērijuma datus uz mikrokontrolieri. Mikrokontrolieris vel ņem vai satur informāciju par citām lietām kā pīkstuļa slieksni un pīkstuļa skaļumu, slieksnis vadāms ar pogām, un skaļums vadāms ar potenciometru. Šī informācija tālāk tiek aizsūtīta uz Oled displeju un pīkstuli. 
 
 ![image](https://github.com/SkylerAcer/Measurment-system-/assets/96178550/e88cd2ea-e769-4920-8dbe-cf7c679a871b)
 
-un tad nedaudz sīkāk tieši kā strādā vajadzētu arī to grafisko attēlojumu pārtaisīt kas bija prezentācijā un ielikt šeit.
 
 
 ## Kāpēc tas ir?
