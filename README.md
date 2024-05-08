@@ -14,7 +14,7 @@
 
 ## Kas tas ir?
 
-Mērijumu Sistēma(MS) ir attālumu mērītājs, kas izmanto Time of Flight(ToF) komponentes lai mērītu attālumu starp komponenti un objektu. Tof komponente sūta mērijuma datus uz mikrokontrolieri. Mikrokontrolieris saņem vai satur informāciju par citiem datiem - pīkstuļu slieksni un pīkstuļa skaļumu, slieksni vadāmu ar pogām, un skaļums vadāms ar potenciometru. Šī informācija tālāk tiek aizsūtīta uz Orgnaic Light-Emitting Diode (OLED) displeju un pīkstuli.
+Mērijumu Sistēma (MS) ir attālumu mērītājs, kas izmanto Time of Flight(ToF) komponentes lai mērītu attālumu starp komponenti un objektu. Tof komponente sūta mērijuma datus uz mikrokontrolieri. Mikrokontrolieris saņem vai satur informāciju par citiem datiem - pīkstuļu slieksni un pīkstuļa skaļumu, slieksni vadāmu ar pogām, un skaļums vadāms ar potenciometru. Šī informācija tālāk tiek aizsūtīta uz Orgnaic Light-Emitting Diode (OLED) displeju un pīkstuli.
 
 Šis risinājums ir domāts lai palīdzētu cilvēkiem ar vāju redzi
 
