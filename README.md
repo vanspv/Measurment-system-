@@ -16,7 +16,7 @@
 
 Mērijumu Sistēma (MS) ir attālumu mērītājs, kas izmanto Time of Flight(ToF) komponentes lai mērītu attālumu starp komponenti un objektu. Tof komponente sūta mērijuma datus uz mikrokontrolieri. Mikrokontrolieris saņem vai satur informāciju par citiem datiem - pīkstuļu slieksni un pīkstuļa skaļumu, slieksni vadāmu ar pogām, un skaļums vadāms ar potenciometru. Šī informācija tālāk tiek aizsūtīta uz Orgnaic Light-Emitting Diode (OLED) displeju un pīkstuli.
 
-Šis risinājums ir domāts lai palīdzētu cilvēkiem ar vāju redzi
+Šis risinājums ir noderīgs cilvēkiem ar vāju redzi vai neredzību, jo tas izmanto Time of Flight tehnoloģiju, lai precīzi mērītu attālumu starp komponenti un objektu. Šāda veida sistēma var būt noderīga cilvēkiem, kuriem ir grūtības novērtēt attālumu vai identificēt objektus apkārtējā vidē.
 
 ![image](https://github.com/SkylerAcer/Measurment-system-/assets/96178550/e88cd2ea-e769-4920-8dbe-cf7c679a871b)
 
@@ -26,7 +26,6 @@ Mērijumu Sistēma (MS) ir attālumu mērītājs, kas izmanto Time of Flight(ToF
 
 Latvijā ir ~140 tūkstošu cilvēku, kuriem ir kāda no invaliditātes pakāpēm, un 12+ tūkstošiem no tiem ir invaliditāte, kura satistīta ar redzes traucējumiem. (https://www.lnbiedriba.lv/lv/par-biedribu/statistika-un-petijumi/)
 
-Šī ierīce var palīdzēt šiem cilvēkiem vieglāk pārvietoties par grūtām vietām 
 
 
 Neredzīgie var izmantot šo ierīci, lai noteiktu attālumu no dažādiem objektiem, kas uzlabotu viņu mobilitāti un neatkarību. Ar Infrasarkaniem stariem, MS palīdz identificēt šķēršļus un novērtēt attālumu no tiem, tādējādi veicinot drošu pārvietošanos.
