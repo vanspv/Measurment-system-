@@ -1,6 +1,4 @@
-<h1 align="center"> Mērījumu Sistēma </h1> <br>
-
-## Saturs
+<h2 align="center"> Mērījumu Sistēma </h2> 
 
 - [Kas tas ir?](#kas-tas-ir)
 - [Kāpēc risinājums ir nepieciešams?](#kāpēc-risinājums-ir-nepieciešams)
@@ -8,6 +6,7 @@
 - [Lietošanas instrukcija](#lietošanas-instrukcija)
 - [Uzlabojumi](#uzlabojumi)
 - [Alternatīvas](#alternatīvas)
+- [Atsauces](#atsauces)
 - [Autori](#autori)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -72,6 +71,12 @@ Taču uzlabojumi, kurus paši esam definējuši ir:
   
 ## Alternatīvas
 Alternatīvas šādam asistences risinājumam jau pastāv, piemēram, UltraCane, Ray Electronic Aid, 
+
+## Atsauces
+- Par vl53l0x1 bibliotēku - Edgars Bajaruns
+- Palīdzība ar kodēšanu - Ingus Roberts Valhheims
+- Thonny - https://thonny.org
+- Izmantotā bibliotēka - ssd1306  (https://github.com/makerportal/rpi-pico-ssd1306)
 
 ## Autori
 - Anrijs Dambis
