@@ -42,6 +42,6 @@ Time of Flight (ToF) - Ar infrasarkano staru palīdzību iegūst datus par to ci
 ## Uzlabojumi
 
 
-## Alternatīvas [![Backers on Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
+## Alternatīvas
 
 
