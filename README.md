@@ -70,7 +70,7 @@ Taču uzlabojumi, kurus paši esam definējuši ir:
 - MS dizains. Esošais dizains ir ļoti pamanāms un liels. Tas nav ērts velkāšanai, mūsu mērķis ir padarīt šo ierīci pēc iespējas ērtāku, labāku lietošanai. 
   
 ## Alternatīvas
-Alternatīvas šādam asistences risinājumam jau pastāv, piemēram, UltraCane, Ray Electronic Aid, 
+Alternatīvas šādam asistences risinājumam jau pastāv, piemēram, UltraCane, Ray Electronic Aid.
 
 ## Atsauces
 - Par vl53l0x1 bibliotēku - Edgars Bajaruns
