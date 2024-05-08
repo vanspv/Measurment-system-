@@ -39,6 +39,7 @@ Raspberry pi Pico W - Atbild par datu ievākšanu un to apstrādāšanu.
 ToF sensori
 Time of Flight (ToF) - Ar infrasarkano staru palīdzību iegūst datus par to cik tālu no tā atrodas kāds objekts. Tā maksimālais attāluma mērījums ir 8160 mm jeb 8 metri un 16cm.
 
+
 ## Lietošanas instrukcija
 just turn it on
 
