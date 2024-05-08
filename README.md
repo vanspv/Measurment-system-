@@ -61,13 +61,15 @@ Neredzīgie var izmantot šo ierīci, lai noteiktu attālumu no dažādiem objek
 
 
 ## Uzlabojumi
-Drošāku 
+Risinājums vēl ir prototipa stadijā, un lai definētu nozīmīgus uzlabojumus, to vajadzētu ar lietotāju palīdzību testēt.
+Taču uzlabojumi, kurus paši esam definējuši ir:
 
-Pievienot skaņu signālu dažādu komponentu izmantošanai.
+- ToF, kas ir novietots 45 grādu leņķī, datu apstrāde. Lai gan šobrīd ievākto mērījumu dati tiek apstrādāti, dati nav pilnīgi precīzi katrā mērījumā. Šī iemesla dēļ rodas novirzesv, un  pīkstulis dod signālu gadījumos, kad tas nav vajadzīgs.
+  
+- Bluetooth savienojums. Šobrīd risinājuma paziņojumi balstās uz pīkstuļa, taču turpmākais solis ir izveodot mikrokontrollera ar mobilo ierīci caur Bluetooth. Mobīla ierīce saņemtu signālu no mikrokontrollera, un lietotājs pēc izvēles var savienot telefonu ar austiņām. 
 
-Nodrošināt veidu kā piestiprināt sistēmu uz cilvēka.
-
-
+- Ms dizains. Esošais dizains ir ļoti panamāms un liels. Tas nav ērts velkāšanai, mūsu mērķis ir padarīt šo ierīci pēc iespējas ērtāku, labāku lietošanai. 
+  
 ## Alternatīvas
 Alternatīvas šādam asistences risinājumam jau patāvkuri, kri satur ToF sensorus, piemēri, Smart Cane
 
