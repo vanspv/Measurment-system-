@@ -14,7 +14,7 @@
 
 ## Kas tas ir?
 
-Mērijumu Sistēma (MS) ir attālumu mērītājs, kas izmanto Time of Flight(ToF) komponentes, lai mērītu attālumu starp komponenti un objektu. Tof komponente sūta mērijuma datus uz mikrokontrolieri. Mikrokontrolieris saņem vai satur informāciju par citiem datiem - pīkstuļu slieksni un pīkstuļa skaļumu, slieksni vadāmu ar pogām, un skaļums vadāms ar potenciometru. Šī informācija tālāk tiek aizsūtīta uz Orgnaic Light-Emitting Diode (OLED) displeju un pīkstuli.
+Mērījumu Sistēma (MS) ir attālumu mērītājs, kas izmanto Time of Flight(ToF) sensorus, lai mērītu attālumu starp sensoru un objektu. Tof sensors sūta mērijuma datus uz mikrokontrolieri. Mikrokontrolieris saņem vai satur informāciju par citiem datiem - pīkstuļu slieksni un pīkstuļa skaļumu, slieksni vadāmu ar pogām, un skaļums vadāms ar potenciometru. Šī informācija tālāk tiek aizsūtīta uz Orgnaic Light-Emitting Diode (OLED) displeju un pīkstuli.
 
 Šis risinājums ir noderīgs cilvēkiem ar vāju redzi vai neredzību, jo tas izmanto Time of Flight tehnoloģiju, lai precīzi mērītu attālumu starp komponenti un objektu. Šāda veida sistēma var būt noderīga cilvēkiem, kuriem ir grūtības novērtēt attālumu vai identificēt objektus apkārtējā vidē.
 
@@ -38,7 +38,7 @@ Neredzīgie var izmantot šo ierīci, lai noteiktu attālumu no dažādiem objek
 - Pīkstulis
 - Potenciometrs
 - 2x Pogas
-- OLED displejs.
+- OLED displejs
 
 ### Detaļu apraksts:
 - Mikrokontrolieris Raspberry Pi Pico W - Atbild par datu ievākšanu un to apstrādāšanu.
@@ -66,12 +66,12 @@ Taču uzlabojumi, kurus paši esam definējuši ir:
 
 - ToF, kas ir novietots 45 grādu leņķī, datu apstrāde. Lai gan šobrīd ievākto mērījumu dati tiek apstrādāti, dati nav pilnīgi precīzi katrā mērījumā. Šī iemesla dēļ rodas novirzesv, un  pīkstulis dod signālu gadījumos, kad tas nav vajadzīgs.
   
-- Bluetooth savienojums. Šobrīd risinājuma paziņojumi balstās uz pīkstuļa, taču turpmākais solis ir izveodot mikrokontrollera ar mobilo ierīci caur Bluetooth. Mobīla ierīce saņemtu signālu no mikrokontrollera, un lietotājs pēc izvēles var savienot telefonu ar austiņām. 
+- Bluetooth savienojums. Šobrīd risinājuma paziņojumi balstās uz pīkstuļa, taču turpmākais solis ir izveodot mikrokontroliera ar mobilo ierīci caur Bluetooth. Mobīla ierīce saņemtu signālu no mikrokontrollera, un lietotājs pēc izvēles var savienot telefonu ar austiņām. 
 
-- Ms dizains. Esošais dizains ir ļoti panamāms un liels. Tas nav ērts velkāšanai, mūsu mērķis ir padarīt šo ierīci pēc iespējas ērtāku, labāku lietošanai. 
+- MS dizains. Esošais dizains ir ļoti pamanāms un liels. Tas nav ērts velkāšanai, mūsu mērķis ir padarīt šo ierīci pēc iespējas ērtāku, labāku lietošanai. 
   
 ## Alternatīvas
-Alternatīvas šādam asistences risinājumam jau patāvkuri, kri satur ToF sensorus, piemēri, Smart Cane
+Alternatīvas šādam asistences risinājumam jau pastāv, piemēram, Smart Cane
 
 ## Autori
 - Anrijs Dambis
