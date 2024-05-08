@@ -8,7 +8,7 @@
 - [Lietošanas instrukcija](#lietošanas-instrukcija)
 - [Uzlabojumi](#uzlabojumi)
 - [Alternatīvas](#alternatīvas)
-- [Autori](#Autori)
+- [Autori](#autori)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -32,25 +32,39 @@ Neredzīgie var izmantot šo ierīci, lai noteiktu attālumu no dažādiem objek
 
 ## Aparatūra
 
-Detaļu saraksts:
+### Detaļu saraksts:
+- Mikrokontrolieris Raspberry Pi Pico W
+- 2x ToF sensori
+- Pīkstulis
+- Potenciometrs
+- 2x pogas
+- OLED displejs.
 
-Mikrokontrolieris Raspberry Pi Pico W, 2x ToF sensori, pīkstulis, potenciometrs, 2x pogas, OLED displejs.
-
-
+### Detaļu apraksts:
 - Mikrokontrolieris Raspberry Pi Pico W - Atbild par datu ievākšanu un to apstrādāšanu.
 
 - ToF sensori - Ar infrasarkano staru palīdzību iegūst datus par to cik tālu no tā atrodas kāds objekts. Tā maksimālais attāluma mērījums ir 8160mm, jeb 8m un 16cm.
 
 
 ## Lietošanas instrukcija
-Skaņas regulēšana - Potenciometru regulējot, maina brīdinājuma skaļumu sistēmai.
+### Koda izmantošana
+- Lejupielādē kodu.
+- Savieno Raspberry Pi Pico W mikrokonrolieri ar datoru un augšupielādēt failus.
+- Savienot kopā vajadzīgās komponentes.
+- Palaist caur Thonny programmu.
 
-Sliekšņa regulēšana - 2 pogas, kas regulē MS attāluma slieksni, viena mazina attāluma slieksni, otra palielina attāluma slieksni.
+### Komponentes lietošana
 
-Leņķa regulēšana - Kustinot ToF sensoru platformu, var regulēt leņķi, kurā ToF mēra attālumu.
+- Skaņas regulēšana - Potenciometru regulējot, maina brīdinājuma skaļumu sistēmai.
+
+- Sliekšņa regulēšana - 2 pogas, kas regulē MS attāluma slieksni, viena mazina attāluma slieksni, otra palielina attāluma slieksni.
+
+- -Leņķa regulēšana - Kustinot ToF sensoru platformu, var regulēt leņķi, kurā ToF mēra attālumu.-
 
 ## Uzlabojumi
 Drošāku 
+Pievienot skaņu signālu dažādu komponentu izmantošanai.
+Nodrošināt veidu kā piestiprināt sistēmu uz cilvēka.
 
 
 ## Alternatīvas
