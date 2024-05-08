@@ -26,7 +26,10 @@ Mērijumu Sistēma(MS) ir attālumu mērītājs, kas izmanto Time of Flight(ToF)
 
 Latvijā ir ~140 tūkstošu cilvēku, kuriem ir kāda no invaliditātes pakāpēm, un 12+ tūkstošiem no tiem ir invaliditāte, kura satistīta ar redzes traucējumiem. (https://www.lnbiedriba.lv/lv/par-biedribu/statistika-un-petijumi/)
 
+Šī ierīce var palīdzēt šiem cilvēkiem vieglāk pārvietoties par grūtām vietām 
 
+
+Neredzīgie var izmantot šo ierīci, lai noteiktu attālumu no dažādiem objektiem, kas uzlabotu viņu mobilitāti un neatkarību. Ar Infrasarkaniem stariem, MS palīdz identificēt šķēršļus un novērtēt attālumu no tiem, tādējādi veicinot drošu pārvietošanos.
 
 ## Aparatūra
 
@@ -45,10 +48,11 @@ Skaņas regulēšana - Potenciometru regulējot, maina brīdinājuma skaļumu si
 
 Sliekšņa regulēšana - 2 pogas, kas regulē MS attāluma slieksni, viena mazina attāluma slieksni, otra palielina attāluma slieksni.
 
-Leņķa regulēšana - Kustinot ToF sensoru platoformu var regulēt leņķi kurā tas mēra.
+Leņķa regulēšana - Kustinot ToF sensoru platformu, var regulēt leņķi, kurā ToF mēra attālumu.
 
 ## Uzlabojumi
-End me
+on off poga
+
 
 ## Alternatīvas
 
