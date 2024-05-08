@@ -4,7 +4,7 @@
 
 - [Kas tas ir?](#kas-tas-ir)
 - [Kāpēc risinājums ir nepieciešams?](#kāpēc-risinājums-ir-nepieciešams)
-- [Apartūra](#apartūra)
+- [Aparatūra](#aparatūra)
 - [Lietošanas instrukcija](#lietošanas-instrukcija)
 - [Uzlabojumi](#uzlabojumi)
 - [Alternatīvas](#alternatīvas)
@@ -27,7 +27,7 @@ Latvijā ir 140~ tūkstošu cilvēku, kuriem ir kāda no invaliditātes pakāpē
 
 
 
-## Apartūra
+## Aparatūra
 
 Detaļu saraksts:
 
